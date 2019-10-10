@@ -1,5 +1,7 @@
 # GitBook plugin: InTopic TOC
 
+**Note: Thanks to zanfab's work! I want to indent the headings in TOC, while I think zanfab is not often online. So I publish a new npm package. If you want to use this gitbook plugin, please change `intopic-toc` to `md-toc` in your book.json. That's it!**
+
 ![Build Status](https://api.travis-ci.org/zanfab/gitbook-plugin-intopic-toc.svg)
 [![npm version](https://img.shields.io/npm/v/gitbook-plugin-intopic-toc/latest.svg)](https://www.npmjs.com/package/gitbook-plugin-intopic-toc)
 
