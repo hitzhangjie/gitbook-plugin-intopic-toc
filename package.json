@@ -1,6 +1,6 @@
 {
-  "name": "gitbook-plugin-intopic-toc",
-  "version": "1.0.1",
+  "name": "gitbook-plugin-md-toc",
+  "version": "1.0.2",
   "description": "GitBook Plugin to add inline table of contents (TOC) to each page based on configurable selectors.",
   "keywords": [
     "gitbook",
@@ -9,7 +9,7 @@
     "anchor",
     "table-of-contents"
   ],
-  "author": "Fabian Zankl",
+  "author": "ZhangJie",
   "license": "MIT",
   "engines": {
     "gitbook": ">=2.0.0"
@@ -18,13 +18,13 @@
   "scripts": {
     "test": ""
   },
-  "homepage": "https://github.com/zanfab/gitbook-plugin-intopic-toc#readme",
+  "homepage": "https://github.com/hitzhangjie/gitbook-plugin-intopic-toc#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zanfab/gitbook-plugin-intopic-toc.git"
+    "url": "git+https://github.com/hitzhangjie/gitbook-plugin-intopic-toc.git"
   },
   "bugs": {
-    "url": "https://github.com/zanfab/gitbook-plugin-intopic-toc/issues"
+    "url": "https://github.com/hitzhangjie/gitbook-plugin-intopic-toc/issues"
   },
   "gitbook": {
     "properties": {
